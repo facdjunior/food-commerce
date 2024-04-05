@@ -47,6 +47,12 @@ export function Sidebar() {
             <span>Sobremesas</span>
           </NavLink>
         </li>
+        <li>
+          <NavLink to="configuracao" >
+            <IceIcon />
+            <span>Configuração</span>
+          </NavLink>
+        </li>
       </ul>
     </nav>
   </Container>
